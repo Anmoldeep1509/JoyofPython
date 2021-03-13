@@ -1,7 +1,10 @@
 # JoyofPython
+
 Inspired from Joy of Computing using python resources
 Main course link - [Joy of Computing using Python](https://onlinecourses.nptel.ac.in/noc20_cs35/unit?unit=59&lesson=67)
 UI development library - [Kivy](https://realpython.com/mobile-app-kivy-python/)
+
+Status: Deferred (due to platform issues)
 
 ## To Do
 
